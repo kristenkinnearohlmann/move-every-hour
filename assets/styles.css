@@ -11,6 +11,7 @@ header {
     font-size: 8rem;
     margin-top: 10rem;
     text-align: center;
+    text-shadow: 3px 3px 5px grey;
 }
 
 main {
