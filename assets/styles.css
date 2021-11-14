@@ -36,6 +36,7 @@ main {
     justify-content: center;
     margin: 2rem;
     padding: 1rem;
+    text-shadow: 3px 3px 5px #fff;
     width: 200px;
 }
 
